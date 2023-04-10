@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Package: SCBN
 Type: Package
 Title: A statistical normalization method and differential expression analysis 
@@ -22,3 +23,4 @@ VignetteBuilder: knitr
 RoxygenNote: 6.0.1
 Imports: stats
 biocViews: DifferentialExpression, GeneExpression, Normalization
+>>>>>>> upstream/devel
